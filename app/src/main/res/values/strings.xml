@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yourooms</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buy_rent_daily">Купить</string>
+    <string name="type">Квартира</string>
+    <string name="new_old">Вторичка</string>
+    <string name="number_of_rooms">Комнат</string>
+    <string name="area">Площадь</string>
+    <string name="level">Этаж</string>
+    <string name="price">Цена</string>
+</resources>
